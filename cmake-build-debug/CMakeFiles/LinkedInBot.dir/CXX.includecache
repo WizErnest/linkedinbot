@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ernesto/Desktop/LinkedInBot/include/Message.h
+fstream
+-
+iostream
+-
+
+C:/Users/Ernesto/Desktop/LinkedInBot/include/MessageCreator.h
+Message.h
+C:/Users/Ernesto/Desktop/LinkedInBot/include/Message.h
+Person.h
+C:/Users/Ernesto/Desktop/LinkedInBot/include/Person.h
+regex
+-
+sstream
+-
+windows.h
+-
+
+C:/Users/Ernesto/Desktop/LinkedInBot/include/Person.h
+iostream
+-
+
+C:/Users/Ernesto/Desktop/LinkedInBot/src/main.cpp
+../include/MessageCreator.h
+C:/Users/Ernesto/Desktop/LinkedInBot/include/MessageCreator.h
+memory
+-
+windows.h
+-
+

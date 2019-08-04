@@ -1,0 +1,3 @@
+C:/Users/Ernesto/Desktop/linkedinbot/cmake-build-debug/CMakeFiles/LinkedInBot.dir
+C:/Users/Ernesto/Desktop/linkedinbot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ernesto/Desktop/linkedinbot/cmake-build-debug/CMakeFiles/rebuild_cache.dir

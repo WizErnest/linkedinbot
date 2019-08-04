@@ -1,0 +1,10 @@
+Hello [title] [lastname],
+
+We recently connected and I see you are currently [position] at [company].
+
+During college, I was the Mechanical Engineering lead for a student-run research group implementing a self-driving golf cart. I would love to have your opinion on the skills and experiences an ideal candidate for an entry-level engineering position at [company] should have. As well as how I compare to that ideal and how I can bring myself closer to it.
+
+If you have any time, I would love to learn more about the industry and [company]. I've attached my resume for your convenience.
+
+Thank you,
+Ernest Gustave
