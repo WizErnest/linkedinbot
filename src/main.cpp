@@ -15,7 +15,7 @@ int main() {
 
   std::cout << "Press \"esc\" to exit" << std::endl;
 
-  HANDLE hThread = CreateThread(NULL, 0, CheckEscape, NULL, 0, NULL);
+  HANDLE hThread = CreateThread(nullptr, 0, CheckEscape, nullptr, 0, nullptr);
 
   while (true){
       std::string firstname, lastname, title, company, position;

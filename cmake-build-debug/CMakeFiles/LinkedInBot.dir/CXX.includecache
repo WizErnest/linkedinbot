@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Ernesto/Desktop/LinkedInBot/include/Message.h
+.././include/Message.h
 fstream
 -
 iostream
 -
 
-C:/Users/Ernesto/Desktop/LinkedInBot/include/MessageCreator.h
+.././include/MessageCreator.h
 Message.h
-C:/Users/Ernesto/Desktop/LinkedInBot/include/Message.h
+.././include/Message.h
 Person.h
-C:/Users/Ernesto/Desktop/LinkedInBot/include/Person.h
+.././include/Person.h
 regex
 -
 sstream
@@ -24,13 +24,43 @@ sstream
 windows.h
 -
 
-C:/Users/Ernesto/Desktop/LinkedInBot/include/Person.h
+.././include/Person.h
 iostream
 -
 
-C:/Users/Ernesto/Desktop/LinkedInBot/src/main.cpp
+C:/Users/Ernesto/Desktop/linkedinbot/include/Message.h
+fstream
+-
+iostream
+-
+
+C:/Users/Ernesto/Desktop/linkedinbot/include/MessageCreator.h
+Message.h
+C:/Users/Ernesto/Desktop/linkedinbot/include/Message.h
+Person.h
+C:/Users/Ernesto/Desktop/linkedinbot/include/Person.h
+regex
+-
+sstream
+-
+windows.h
+-
+
+C:/Users/Ernesto/Desktop/linkedinbot/include/Person.h
+iostream
+-
+
+C:/Users/Ernesto/Desktop/linkedinbot/src/MessageCreator.cpp
+MessageCreator.h
+C:/Users/Ernesto/Desktop/linkedinbot/src/MessageCreator.h
+
+C:/Users/Ernesto/Desktop/linkedinbot/src/Person.cpp
+../include/Person.h
+C:/Users/Ernesto/Desktop/linkedinbot/include/Person.h
+
+C:/Users/Ernesto/Desktop/linkedinbot/src/main.cpp
 ../include/MessageCreator.h
-C:/Users/Ernesto/Desktop/LinkedInBot/include/MessageCreator.h
+C:/Users/Ernesto/Desktop/linkedinbot/include/MessageCreator.h
 memory
 -
 windows.h

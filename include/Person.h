@@ -15,11 +15,11 @@ public:
                   const std::string &title, const std::string &company,
                   const std::string &position);
 
-  void changefirstname(const std::string firstname);
-  void changelastname(const std::string lastname);
-  void changetitle(const std::string title);
-  void changecompany(const std::string company);
-  void changeposition(const std::string position);
+  void changefirstname(const std::string &firstname);
+  void changelastname(const std::string &lastname);
+  void changetitle(const std::string &title);
+  void changecompany(const std::string &company);
+  void changeposition(const std::string &position);
 
   std::string getfirstname() const;
   std::string getlastname() const;
