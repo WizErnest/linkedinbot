@@ -1,5 +1,5 @@
 //
-// Author by Ernesto
+// Author: wizernest
 //
 
 #ifndef LINKEDINBOT_PERSON_CPP

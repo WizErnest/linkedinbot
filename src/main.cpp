@@ -1,3 +1,7 @@
+//
+// Author: wizernest
+//
+
 #include "../include/MessageCreator.h"
 
 #include <memory>
